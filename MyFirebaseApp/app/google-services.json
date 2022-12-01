@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667976509766",
+    "project_id": "primerintento-d9f4c",
+    "storage_bucket": "primerintento-d9f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667976509766:android:016d8edb8b9ec75549dd47",
+        "android_client_info": {
+          "package_name": "firebas.app.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667976509766-mqjgpsk1lr7ja8hep8ef3i8a3h1r6dft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycMZE59mTZemi2ZRf5X3bf9MUYmAgRbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667976509766-mqjgpsk1lr7ja8hep8ef3i8a3h1r6dft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
